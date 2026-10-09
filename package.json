@@ -75,6 +75,15 @@
     "typescript": "^4.9.5",
     "yup": "^0.32.11"
   },
+  "overrides": {
+    "postcss-selector-parser": "^7.1.6",
+    "http-proxy-agent@4.0.1": {
+      "@tootallnate/once": "^2.0.1"
+    },
+    "jsonpath": {
+      "underscore": "^1.13.8"
+    }
+  },
   "author": {
     "name": "CERN",
     "email": "info@inveniosoftware.org"
